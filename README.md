@@ -9,10 +9,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=026e0&color=282c34)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&color=blue&logoColor=black)
 
+
+
 ## Social:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/naman-agarwal-97b207191/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/divine_naman/)
+
+## Other:
+- [![quiry_shutter](https://img.shields.io/badge/Photography-Instagram-informational?style=flat-square&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/quirky_shutter/)
+- [![Chess](https://img.shields.io/badge/Chess-chess.com-informational?style=flat-square&logo=&logoColor=&color=greean)](https://www.chess.com/member/divine_naman)
 
 <!--
 **divinenaman/divinenaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
