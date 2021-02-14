@@ -1,6 +1,6 @@
 ## Hey there!, I am Naman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I am a Computer Science student from India. Currently I am mostly working on Web Developement Projects and would love to collaborate with you all.
+#### I am a Computer Science student from India. For a while I have been passionately involved in Open Source development and would love to collaborate with y'all.
 
 ## Technologies:
 
