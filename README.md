@@ -20,6 +20,10 @@
 - [![quiry_shutter](https://img.shields.io/badge/Photography-Instagram-informational?style=flat-square&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/quirky_shutter/)
 - [![Chess](https://img.shields.io/badge/Chess-chess.com-informational?style=flat-square&logo=&logoColor=&color=greean)](https://www.chess.com/member/divine_naman)
 
+## Stats:
+![Github stats](https://github-readme-stats.vercel.app/api?username=divinenaman&theme=nightowl)
+
+
 <!--
 **divinenaman/divinenaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
