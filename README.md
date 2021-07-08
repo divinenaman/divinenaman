@@ -1,30 +1,32 @@
-## Hey there!, I am Naman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there, I am Naman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I am a Computer Science student from India. For a while I have been passionately involved in Open Source development and would love to collaborate with y'all.
+I am a CS grad from India studying at VIT, Chennai. I have been passionately involved in Open Source development and would love to collaborate with y'all.
 
-## Technologies:
+##
+### Tools & Tech
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
-![Javascript](https://img.shields.io/badge/-Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=f7df1e)
-![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=61dafb&color=282c34)
-![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=026e0&color=282c34)
-![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&color=blue&logoColor=black)
-
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img src="https://img.icons8.com/color/48/000000/redux.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/haskell.png"/>  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 
 
-## Social:
+##
+
+- 🔭 I’m currently working on Node.js, React, React Native
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on Web Development
+- 📫 How to reach me: namanddev7@gmail.com , [LinkedIn](https://www.linkedin.com/in/naman-agarwal-97b207191/)
+
+
+##
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/naman-agarwal-97b207191/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/divine_naman/)
 
-## Other:
-- [![quiry_shutter](https://img.shields.io/badge/Photography-Instagram-informational?style=flat-square&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/quirky_shutter/)
-- [![Chess](https://img.shields.io/badge/Chess-chess.com-informational?style=flat-square&logo=&logoColor=&color=greean)](https://www.chess.com/member/divine_naman)
-
-## Stats:
+##
 ![Github stats](https://github-readme-stats.vercel.app/api?username=divinenaman&theme=nightowl)
 
 
-<!--
+<!-- 
 **divinenaman/divinenaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -37,4 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
