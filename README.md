@@ -1,4 +1,4 @@
-### Hey there, I am Naman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there, I am Naman
 
 I am a CS grad from India studying at VIT, Chennai. I have been passionately involved in Open Source development and would love to collaborate with y'all.
 
