@@ -23,7 +23,7 @@ I am a CS grad from India studying at VIT, Chennai. I have been passionately inv
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/divine_naman/)
 
 ##
-![Github stats](https://github-readme-stats.vercel.app/api?username=divinenaman&theme=nightowl)
+![Github stats](https://github-readme-stats.vercel.app/api?username=divinenaman&theme=nightowl&count_private=true)
 
 
 <!-- 
