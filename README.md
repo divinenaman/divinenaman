@@ -11,7 +11,7 @@ I am a CS grad from India studying at VIT, Chennai. I have been passionately inv
 ##
 ### :books: Recent Blogs
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🌮 [Intro to Next.js API and handling Forms](https://divinenaman.hashnode.dev/intro-to-nextjs-api)<!-- BLOGPOSTS:END -->
 
 ##
 
