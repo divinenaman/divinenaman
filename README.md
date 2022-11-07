@@ -3,11 +3,15 @@
 I am a CS grad from India studying at VIT, Chennai. I have been passionately involved in Open Source development and would love to collaborate with y'all.
 
 ##
-### Tools & Tech
+### :fire: Tools & Tech
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img src="https://img.icons8.com/color/48/000000/redux.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/haskell.png"/>  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 
+##
+### :books: Recent Blogs
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 ##
 
