@@ -1,7 +1,5 @@
 ### Hey there, I am Naman
 
-I am a CS grad from India studying at VIT, Chennai. I have been passionately involved in Open Source development and would love to collaborate with y'all.
-
 ##
 ### :fire: Tools & Tech
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
